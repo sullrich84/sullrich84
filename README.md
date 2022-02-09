@@ -9,4 +9,4 @@ my name is Sebastian Ullrich and I am a passionate software developer.
 ## ⚡ Technologies
 - Front-end development using **HTML, CSS (Tailwind), JavaScript (React)**
 - Backend development using **Spring Boot, Spring Data Rest, and many others... (Java/Kotlin)**
-- DevOps: Building modern software solutions using: Kubernetes, Rancher, Docker, Terraform
+- DevOps: Building modern software solutions using: **Kubernetes, Rancher, Docker, Terraform**
