@@ -18,3 +18,12 @@ jobs:
           base: ""
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
+      - name: Indepth
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.plugin.indepth.fullyear.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          plugin_languages: yes
+          plugin_languages_indepth: yes
+          commits_authoring: firstname lastname, username, username@users.noreply.github.com
