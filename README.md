@@ -7,7 +7,7 @@
 
 my name is Sebastian Ullrich and I am a passionate software developer.
 
-<table>
+<table style="width:100%">
   <tr>
     <td>![Metrics](/metrics.plugin.isocalendar.fullyear.svg)</td>
     <td>![Metrics](/metrics.plugin.isocalendar.fullyear.svg)</td>
