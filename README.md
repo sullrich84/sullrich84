@@ -7,7 +7,7 @@
 
 my name is Sebastian Ullrich and I am a passionate software developer.
 
-![Metrics](/github-metrics.svg)
+![Metrics](/metrics.plugin.isocalendar.fullyear.svg)
 
 ## ⚡ Technologies
 - Front-end development using **HTML, CSS (Tailwind), JavaScript (React)**
