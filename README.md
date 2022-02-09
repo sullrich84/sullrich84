@@ -1,4 +1,4 @@
-### Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
+### Hi there!
 
 [![GitHub](https://img.shields.io/badge/FollowMe-sullrich84-blue?style=flat&logo=github)](https://github.com/sullrich84)
 [![StackOverflow](https://img.shields.io/badge/FollowMe-Sebastian_Ullrich-orange?style=flat&logo=stackoverflow)](https://stackoverflow.com/users/871550/sebastian-ullrich)
