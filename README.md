@@ -7,8 +7,8 @@
 
 my name is Sebastian Ullrich and I am a passionate software developer.
 
-![Metrics](/metrics.plugin.isocalendar.fullyear.svg)
 ![Metrics](/metrics.plugin.notable.svg)
+![Metrics](/metrics.plugin.isocalendar.fullyear.svg)
 ![Metrics](/metrics.plugin.indepth.fullyear.svg)
 
 ## ⚡ Technologies
