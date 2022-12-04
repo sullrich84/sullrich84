@@ -6,3 +6,5 @@
 [![visitors](https://visitor-badge.laobi.icu/badge?page_id=sullrich84.sullrich84)](https://github.com/sullrich84)
 
 my name is Sebastian Ullrich and I am a passionate software developer.
+
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sullrich84" />
