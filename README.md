@@ -15,7 +15,7 @@ and making things happen.
 ## Athletic Achievements
 My journey as an extreme endurance athlete has led to several notable accomplishments, including:
 
-- 🇳🇴 [Norseman Black-Shirt Finisher](https://de.wikipedia.org/wiki/Norseman_Xtreme_Triathlon)
+- 🇳🇴 [Norseman Finisher (Black-Shirt)](https://de.wikipedia.org/wiki/Norseman_Xtreme_Triathlon)
 - 🇩🇪 [Ironman Frankfurt Finisher](https://de.wikipedia.org/wiki/Ironman_Germany)
 - 🇩🇪 [Challenge Roth Finisher](https://de.wikipedia.org/wiki/Challenge_Roth)
 - 🇩🇪 Ironman 70.3 Duisburg Finisher
