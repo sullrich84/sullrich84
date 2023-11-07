@@ -41,3 +41,5 @@ an endurance athlete. Hard work pays off! Let's connect and explore new horizons
 [Instagram](https://www.instagram.com/sullrich84/) |
 [LinkedIn](https://de.linkedin.com/in/sebastian-ullrich-554023252) | 
 [Strava](https://www.strava.com/athletes/15252834)
+
+![](https://komarev.com/ghpvc/?username=sullrich84&color=red)
